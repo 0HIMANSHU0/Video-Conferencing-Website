@@ -16,7 +16,7 @@ const HomePage = () => {
           <a class="navbar-brand" style={{
             fontSize: "24px"
           }} href="#">
-            Video Confrencing WebSite
+            Video Conferencing WebSite
           </a>
         </div>
       </nav>
